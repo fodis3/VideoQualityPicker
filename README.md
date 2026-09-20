@@ -32,7 +32,7 @@ python3 -m margyt.plugin /путь/к/margyt.videoqualitypicker
 
 ## Установка
 
-1. TikTok → Settings and privacy → MargyT → Plugins → Install a plugin
+1. TikTok → Setting MargyT → Plugins → Install a plugin
 2. Выбрать .mtp файл, включить переключатель
 
 ## Использование
