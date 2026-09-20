@@ -9,8 +9,7 @@ margyt.videoqualitypicker/
 ├── manifest.json
 ├── icon.png
 └── java/
-    └── cat/narezany/videoqualitypicker/
-        └── VideoQualityPicker.java
+    └── VideoQualityPicker.java
 ```
 
 ## Как это работает
