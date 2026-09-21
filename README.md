@@ -1,5 +1,5 @@
 # Video Quality Picker — MargyT Plugin
-
+<p align="center"><img src="icon.png" alt="Logo" width="170"></p>
 Плагин для [MargyT](https://github.com/narezany/MargyT), который добавляет выбор качества видео перед скачиванием в TikTok.
 
 ## Структура
